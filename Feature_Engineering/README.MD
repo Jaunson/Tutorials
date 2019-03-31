@@ -9,4 +9,4 @@ It means that we are trying to take some data we have and build new feature(s) (
 to help our application of ML models be more performant and have a greater ability to make accurate predictions.
 
 ## Links for additional learning
-- Wikipedia Article on Feature Engineering [![alt text](https://en.wikipedia.org/wiki/Wikipedia_logo#/media/File:Wikipedia-logo-v2.svg)](https://en.wikipedia.org/wiki/Feature_engineering)
+- Wikipedia Article on [Feature Engineering](https://en.wikipedia.org/wiki/Feature_engineering)
